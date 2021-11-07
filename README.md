@@ -2,7 +2,7 @@
 
 # Remi Based on Python Telegram Bot
 
-# Advanced edition
+# Advance Group management bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Remibot)
 
