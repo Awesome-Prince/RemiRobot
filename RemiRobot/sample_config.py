@@ -6,7 +6,7 @@ import os
 
 def get_user_list(config, key):
 
-    with open("{}/DaisyX/{}".format(os.getcwd(), config), "r") as json_file:
+    with open("{}/Remi/{}".format(os.getcwd(), config), "r") as json_file:
 
         return json.load(json_file)[key]
 
@@ -28,9 +28,9 @@ class Config(object):
 
     OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
 
-    OWNER_USERNAME = "Sawada"
+    OWNER_USERNAME = "iMcRaZyBoY_420"
 
-    SUPPORT_CHAT = "OnePunchSupport"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "LovelySsupport"  # Your own group for support, do not add the @
 
     JOIN_LOGGER = (
 
