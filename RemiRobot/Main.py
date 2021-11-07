@@ -34,7 +34,7 @@ from telegram.ext import (
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
-from DaisyX import (
+from RemiRobot import (
     ALLOW_EXCL,
     BL_CHATS,
     CERT_PATH,
@@ -56,11 +56,11 @@ from DaisyX import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from DaisyX.modules import ALL_MODULES
-from DaisyX.modules.helper_funcs.alternate import typing_action
-from DaisyX.modules.helper_funcs.chat_status import is_user_admin
-from DaisyX.modules.helper_funcs.misc import paginate_modules
-from DaisyX.modules.helper_funcs.readable_time import get_readable_time
+from RemiRobot.modules import ALL_MODULES
+from RemiRobot.modules.helper_funcs.alternate import typing_action
+from RemiRobot.modules.helper_funcs.chat_status import is_user_admin
+from RemiRobot.modules.helper_funcs.misc import paginate_modules
+from RemiRobot.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm [𝓓𝓪𝓲𝓼𝔂 𝓧](https://telegra.ph/file/473cc17913393959e0667.jpg)
