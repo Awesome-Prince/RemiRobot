@@ -6,7 +6,7 @@
 
 # Advance Group management bot
 
-# Click Neko Photo to Deploy 💘
+# Click Remi Photo to Deploy 💘
 
 [![DEPLOY](https://telegra.ph/file/908e0b6822d1ad5282202.jpg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Remibot)
 
@@ -14,4 +14,4 @@
 ## Avaiilable on Telegram as [@Neko_the_Bot](https://t.me/Neko_the_Bot)
 ## NEW BOT AVAILABLE
 
-# Photo [RemiRobot](https://telegra.ph/file/
+
