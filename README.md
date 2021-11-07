@@ -1,9 +1,9 @@
 
 
 # Remi Based on Python Telegram Bot
-
+#(https://telegra.ph/file/908e0b6822d1ad5282202.jpg)
 # Advance Group management bot
-#https://telegra.ph/file/908e0b6822d1ad5282202.jpg
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Remibot)
 
 ## https://t.me/Horimaya
