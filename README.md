@@ -1,7 +1,7 @@
 
 
-# Daisy Based on Python Telegram Bot
-## OLD version of @DaisyXBot
+# Remi Based on Python Telegram Bot
+
 # Advanced edition
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/Daisy-X/blob/Advanced/)
@@ -15,13 +15,13 @@
 
  - SaitamaRobot
  - MissJuliaRobot
- - SuzuyaProbot
+
  - Daisy
- - FridayUserbot
- - Uniborg
- - Telethon
- - Pyrogram
- - Skylee
+
+
+
+
+
  - emilia
 
 
