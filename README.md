@@ -6,7 +6,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Remibot)
 
-## https://Remiproject.studio
+## https://t.me/Horimaya
 ## Avaiilable on Telegram as [@Neko_the_Bot](https://t.me/Neko_the_Bot)
 ## NEW BOT AVAILABLE
 
