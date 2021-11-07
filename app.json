@@ -1,6 +1,6 @@
 {
 
-      "name": "Daisy X",
+      "name": "Remi",
 
       "description": "An Anime themed Telegram group management bot.",
 
@@ -14,11 +14,11 @@
 
          "manager",
 
-         "DaisyX"
+         "Remi"
 
       ],   
 
-   "repository": "https://github.com/Inukaasith/daisy-x",
+   "repository": "https://github.com/Hodacka/Remibot",
 
    "addons": [
 
@@ -26,7 +26,7 @@
 
          "options": {
 
-            "version": "12"
+            "version": "1"
 
          },
 
@@ -40,7 +40,7 @@
 
     {
 
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/Hodacka/heroku-buildpack-ffmpeg-latest"
 
     },
 
@@ -108,7 +108,7 @@
 
          "description": "Your username without the @",
 
-         "value": "InukaAsith"
+         "value": "iMcRaZyBoY_420"
 
       },
 
@@ -118,7 +118,7 @@
 
          "required": true,
 
-         "value": "MyAwesomeSupportGroupGoesHere"
+         "value": "LovelySsupport"
 
       },
 
@@ -302,7 +302,7 @@
 
          "required": false,
 
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/LovelySupdate"
 
       },
 
@@ -360,8 +360,8 @@
 
    ],
 
-   "name": "Daisy X",
+   "name": "Remibot",
 
-   "repository": "https://github.com/Inukaasith/daisy-x"
+   "repository": "https://github.com/Hodacka/Remibot"
 
 }
