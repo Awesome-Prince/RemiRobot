@@ -4,7 +4,7 @@
 
 # Advanced edition
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Senthilkumar0/Kiladibot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Remibot)
 
 ## https://Remiproject.studio
 ## Avaiilable on Telegram as [@Neko_the_Bot](https://t.me/Neko_the_Bot)
