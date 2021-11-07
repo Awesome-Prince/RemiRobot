@@ -6,8 +6,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/Daisy-X/blob/Advanced/)
 
-## https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+## https://Remiproject.studio
+## Avaiilable on Telegram as [@Neko_the_Bot](https://t.me/Neko_the_Bot)
 ## NEW BOT AVAILABLE
 
 
