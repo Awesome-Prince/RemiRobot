@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *💗Help💗*
 buttons = [
     [
         InlineKeyboardButton(
-            text="💓ADD ME IN YOUR GROUP💓",url="t.me/RemiXRobot?startgroup=true"),
+            text="💓ADD ME IN YOUR GROUP💓",url="t.me/RemiTheRobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤍Bot Support🤍", url="https://t.me/RemiXSupport"),
+            text="🤍Bot Support🤍", url="https://t.me/NekoXSupport"),
           
 
 
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩", url="t.me/RemiXSupport")
+                  InlineKeyboardButton(text="𝙎𝙪𝙥𝙥𝙤𝙧𝙩", url="t.me/NekoXSupport")
                   ],
                   [
                   InlineKeyboardButton(text="𝙐𝙥𝙙𝙖𝙩𝙚", url="https://t.me/CrowdXStrike")
