@@ -6,7 +6,7 @@
   <a href="https://github.com/Hodacka/RemiRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/RemiTheRobot"><img src="https://telegra.ph/file/58f76212b20994082b253.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/RemiTheRobot"><img src="https://telegra.ph/file/908e0b6822d1ad5282202.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/Hodacka/RemiRobot"> <img src="https://img.shields.io/github/repo-size/Hodacka/RemiRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -29,7 +29,7 @@ The easiest way to deploy this Bot
 
 ## Devloper
 
-#### • [@Hodacka](https://github.com/Hodacka) (OWNER) 
+#### • [@Horimaya](https://github.com/Hodacka) (OWNER) 
 #### • [@Crazy Boy](https://GitHub.com/cr) (DEV)
 
 
