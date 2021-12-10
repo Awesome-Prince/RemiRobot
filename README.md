@@ -8,12 +8,7 @@
 
 <p align="center"><a href="https://t.me/RemiTheRobot"><img src="https://telegra.ph/file/908e0b6822d1ad5282202.jpg" width="400"></a></p>
 
-<p align="center">
-    <a href="https://github.com/Hodacka/RemiRobot"> <img src="https://img.shields.io/github/repo-size/Hodacka/RemiRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Hodacka/RemiRobot/commits/prince"> <img src="https://img.shields.io/github/last-commit/Hodacka/RemiRobot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Hodacka/Hodacka/issues"> <img src="https://img.shields.io/github/issues/Hodacka/RemiRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 > If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯
 ## Available on Telegram as [@RemiTheRobot](https://t.me/RemiTheRobot)
