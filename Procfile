@@ -1,5 +1,5 @@
-worker: python3 -m Remi
+worker: python3 -m RemiRobot
 
-web: python3 -m Remi
+web: python3 -m RemiRobot
 
 ps:scale worker=1
