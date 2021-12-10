@@ -29,8 +29,8 @@ The easiest way to deploy this Bot
 
 ## Devloper
 
-#### • [@Horimaya](https://github.com/Hodacka) (OWNER) 
-#### • [@Crazy Boy](https://GitHub.com/cr) (DEV)
+#### • [@Horimaya](https://t.me/Horimaya) (OWNER) 
+#### • [@cRaZyBoY_420](https://t.me/cRaZyBoY_420) (DEV)
 
 
 ## Special Credits
