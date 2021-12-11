@@ -5,7 +5,7 @@ from RemiRobot import (DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES)
 from telegram import Update
 from telegram.ext import CommandHandler, MessageHandler, RegexHandler, Filters
 from pyrate_limiter import (BucketFullException, Duration, RequestRate, Limiter,
-                            MemoryListBucket)
+                            MemoryListBucket
 
 if ALLOW_EXCL:
     CMD_STARTERS = ('/', '!')
