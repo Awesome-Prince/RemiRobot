@@ -16,7 +16,7 @@
 ## ✨ Easy To Deploy ✨
 The easiest way to deploy this Bot
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hodacka/RemiRobot"> <img src="https://telegra.ph/file/ad975a5c6de5223f68688.jpg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hodacka/RemiRobot"> <img src="https://telegra.ph/file/ad975a5c6de5223f68688.jpg" width="240" height="39.45"/></a></p>
 
 ## Railway Deploy
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
