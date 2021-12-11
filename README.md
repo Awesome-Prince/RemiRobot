@@ -13,12 +13,12 @@
 > If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯
 ## Available on Telegram as [@RemiTheRobot](https://t.me/RemiTheRobot)
 
-## ✨ Easy To Deploy ✨
+## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hodacka/RemiRobot"> <img src="https://telegra.ph/file/cc35068d1d9eb35072596.jpg"width="390" height="63.45"/></a></p>
 
-## Railway Deploy
+## 💖 Railway Deploy 💖
 <p align="center"><a href="https://railway.app">
 <img src="https://telegra.ph/file/4084865b3cf3856f237ab.jpg"width="390" height="63.45"/></a></p>
 
