@@ -146,6 +146,7 @@ else:
 
     DB_URI = Config.SQLALCHEMY_DATABASE_URI
     DONATION_LINK = Config.DONATION_LINK
+    MONGO_DB_URI = Config.MONGO_DB_URI
     LOAD = Config.LOAD
     NO_LOAD = Config.NO_LOAD
     DEL_CMDS = Config.DEL_CMDS
